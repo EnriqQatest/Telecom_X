@@ -1,7 +1,9 @@
 📡 #**Telecom X: Análisis de Evasión de Clientes (Churn)**
+
 Este proyecto realiza un análisis profundo de los datos de Telecom X para identificar los factores críticos que llevan a la pérdida de clientes (Churn) y proponer soluciones estratégicas basadas en datos.
 
 🎯 **Propósito del Análisis**
+
 El objetivo principal es transformar datos crudos en información accionable para reducir la tasa de abandono de la compañía. El análisis busca:
 
 Identificar el perfil demográfico y de consumo de los clientes que cancelan el servicio.
@@ -11,6 +13,7 @@ Evaluar el impacto de los tipos de contrato y métodos de pago en la retención.
 Proporcionar recomendaciones estratégicas para mejorar la lealtad del cliente.
 
 📂 **Estructura del Proyecto**
+
 El proyecto está organizado de la siguiente manera:
 
 Telecom_X_.ipynb: Notebook principal que contiene todo el flujo de trabajo (Extracción, Limpieza, EDA y Conclusiones).
@@ -26,6 +29,7 @@ EDA (Análisis Exploratorio): Visualizaciones estadísticas y segmentación.
 Insights: Hallazgos clave derivados del análisis.
 
 📊 **Gráficos e Insights Clave**
+
 A continuación, se presentan algunos de los hallazgos más relevantes:
 
 1. Tasa de Abandono General
@@ -41,6 +45,7 @@ El uso de Electronic Check está vinculado a una mayor tasa de churn, mientras q
 Los clientes que carecen de servicios como Seguridad Online o Soporte Técnico tienen una probabilidad significativamente mayor de irse.
 
 🛠️ **Instrucciones de Ejecución**
+
 Para replicar este análisis en tu entorno local o en la nube, sigue estos pasos:
 
 Requisitos Previos:
@@ -68,6 +73,7 @@ Abre el notebook con Jupyter Notebook o VS Code.
 Ejecuta las celdas de extracción para cargar el dataset JSON.
 
 💡 **Recomendaciones Estratégicas**
+
 Migración de Contratos: Incentivar el paso de contratos mensuales a anuales.
 
 Digitalización de Pagos: Promover el registro de tarjetas de crédito para cobros automáticos.
