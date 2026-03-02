@@ -1,4 +1,4 @@
-📡 #**Telecom X: Análisis de Evasión de Clientes (Churn)**
+📡 **Telecom X: Análisis de Evasión de Clientes (Churn)**
 
 Este proyecto realiza un análisis profundo de los datos de Telecom X para identificar los factores críticos que llevan a la pérdida de clientes (Churn) y proponer soluciones estratégicas basadas en datos.
 
